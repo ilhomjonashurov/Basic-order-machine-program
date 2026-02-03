@@ -1,0 +1,16 @@
+[
+    {
+        "name": "1",
+        "surname": "11",
+        "age": "1",
+        "gender": "Male",
+        "language": [
+            "UZB",
+            "ENG"
+        ],
+        "region": "Buxoro",
+        "district": "Qorovulbozor",
+        "email": "1",
+        "password": "1"
+    }
+]
